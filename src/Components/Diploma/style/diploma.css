@@ -1,0 +1,107 @@
+.diploma_container{
+    width: 100%;
+    height: 83.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.diploma_container1 {
+    background: url("../assets/backgound.jpg");
+    width: 100%;
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3rem 0rem;
+}
+
+.diploma_card_container1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.diploma_card {
+    background: url("../assets/Rectangle33.png");
+    width: 762px;
+    height: 143px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.diploma_head {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.diploma_card_container2 {
+    margin: 3rem 0rem;
+    padding: 0rem 3rem;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+
+.diploma_head1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 35px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.diploma_card1 {
+    background: url("../assets/Rectangle45.png");
+    height: 155px;
+    width: 412px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.diploma_card2{
+    background: url("../assets/Rectangle46.png");
+    height: 155px;
+    width: 412px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.diploma_card_container3 {
+    margin: 3rem 0rem;
+    padding: 0rem 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.diploma_card3{
+    background: url("../assets/Rectangle47.png");
+    width: 415px;
+    height: 155px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

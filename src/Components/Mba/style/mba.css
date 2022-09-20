@@ -1,0 +1,87 @@
+.mba-page {
+    width: 100%;
+    height: 589px;
+    background: url("../assets/backgound.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mba-title {
+    display: flex;
+    width: 100%;
+    height: 40%;
+    /* background-color: aqua; */
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.mba-image {
+    width: 50%;
+    height: 60%;
+    background: url("../assets/mba.png");
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.coursesBox {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 60%;
+    justify-content: space-evenly;
+}
+
+.courseCard-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    height: 40%;
+    /* background: green; */
+    /* border: 2px solid rgb(15, 203, 37); */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    color: #FFFFFF;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.marketing{
+    background-image: url("../assets/marketing.png");
+}
+
+.hr {
+    background-image: url("../assets/hr.png");
+}
+
+.finance {
+    background-image: url("../assets/finance.png");
+}
+
+.Ib{
+    background-image: url("../assets/ib.png");
+}
+
+.operations {
+    background-image: url("../assets/operations.png");
+}
+
+.It {
+    background-image: url("../assets/it.png");
+}
