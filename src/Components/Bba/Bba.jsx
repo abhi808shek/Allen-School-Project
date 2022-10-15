@@ -13,103 +13,234 @@ const Bba = () => {
         <div className="bca_container2">
           <div className="cards1 card">
             <div className="card_heading">
-              1. Business Economics
-              <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                1. Business Economics
+                <hr />
+              </a>
+
+
               <br />
-              2. Basic Accounting
-              <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                2. Basic Accounting
+                <hr />
+              </a>
               <br />
-              3. Business Statistics
-              <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                3. Business Statistics
+                <hr />
+              </a>
               <br />
-              4. Principles of Management
-              <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                4. Principles of Management
+                <hr />
+              </a>
               <br />
-              5. Business Ethics & Governance
-              <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                5. Business Ethics & Governance
+                <hr />
+              </a>
               <br />
-              6. Computer Applications
-              <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                6. Computer Applications
+                <hr />
+              </a>
               <br />
             </div>
           </div>
           <div className="cards2 card">
             <div className="card_heading">
-              1. Organisational Behavior <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                1. Organisational Behavior
+                <hr />
+              </a>
+
+
               <br />
-              2. Business Finance <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                2. Business Finance
+                <hr />
+              </a>
               <br />
-              3. Human Resource Development <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                3. Human Resource Development
+                <hr />
+              </a>
               <br />
-              4. Marketing Theory & Practices <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                4. Marketing Theory & Practices
+                <hr />
+              </a>
               <br />
-              5. Business Mathematics <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                5. Business Mathematics
+                <hr />
+              </a>
               <br />
-              6. Advertising Management <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                6. Advertising Management
+                <hr />
+              </a>
               <br />
             </div>
+
+
           </div>
           <div className="cards3 card">
             <div className="card_heading">
-              1. Management & Cost Accounting <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                1. Management & Cost Accounting
+                <hr />
+              </a>
               <br />
-              2. Business Law <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                2. Business Law
+                <hr />
+              </a>
               <br />
-              3. Production Management <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                3. Production Management
+                <hr />
+              </a>
               <br />
-              4. Business Policy <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                4. Business Policy
+                <hr />
+              </a>
               <br />
-              5. Business Communication <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                5. Business Communication
+                <hr />
+              </a>
               <br />
-              6. Business Environment <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+                6. Business Environment
+                <hr />
+              </a>
               <br />
             </div>
+           
           </div>
           <div className="cards4 card">
-            <div className="card_heading">
-              1. Supply Chain Management <hr />
+          <div className="card_heading">
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              1. Supply Chain Management 
+                <hr />
+              </a>
               <br />
-              2. Research Methodology <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              2. Research Methodology 
+                <hr />
+              </a>
               <br />
-              3. Specialised Accounting <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              3. Specialised Accounting
+                <hr />
+              </a>
               <br />
-              4. Consumer Behaviour <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              4. Consumer Behaviour 
+                <hr />
+              </a>
               <br />
-              5. Investment Analysis & Portfolio Management <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              5. Investment Analysis & Portfolio Management 
+                <hr />
+              </a>
               <br />
-              6. Company Law <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              6. Company Law 
+                <hr />
+              </a>
               <br />
             </div>
           </div>
           <div className="cards5 card">
             <div className="card_heading">
-              1. Income Tax <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              1. Income Tax
+                <hr />
+              </a>
               <br />
-              2. Marketing Communication <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              2. Marketing Communication
+                <hr />
+              </a>
               <br />
-              3. Sales Management <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              3. Sales Management
+                <hr />
+              </a>
               <br />
-              4. Company Accounts <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              4. Company Accounts 
+                <hr />
+              </a>
               <br />
-              5. Enterepreneurship and small Business Management <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              5. Enterepreneurship and small Business Management
+                <hr />
+              </a>
               <br />
-              6. Industrial Relations & Labour Laws <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              6. Industrial Relations & Labour Laws
+                <hr />
+              </a>
               <br />
+
             </div>
           </div>
           <div className="cards6 card">
-            <div className="card_heading">
-              1. Project Management <hr />
+          <div className="card_heading">
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              1. Project Management
+                <hr />
+              </a>
               <br />
-              2. Goods & Service Tax <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              2. Goods & Service Tax
+                <hr />
+              </a>
               <br />
-              3. Auditing <hr />
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              3. Auditing 
+                <hr />
+              </a>
               <br />
-              4. International Trade <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              4. International Trade
+                <hr />
+              </a>
               <br />
-              5. Strategic Management <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              5. Strategic Management 
+                <hr />
+              </a>
               <br />
-              6. Training & Developmeent <hr />
+
+              <a href="https://www.javatpoint.com/computer-fundamentals-tuhrefrial">
+              6. Training & Developmeent 
+                <hr />
+              </a>
               <br />
             </div>
           </div>
