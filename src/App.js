@@ -9,6 +9,7 @@ import Courses from './Components/Courses/Courses';
 import Bca from './Components/Bca/Bca';
 import Bba from './Components/Bba/Bba';
 import Diploma from './Components/Diploma/Diploma';
+import Signup from './Components/Signup/Signup';
 
 
 const App = () => {
