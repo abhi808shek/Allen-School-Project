@@ -10,6 +10,7 @@ import Bca from './Components/Bca/Bca';
 import Bba from './Components/Bba/Bba';
 import Diploma from './Components/Diploma/Diploma';
 import Signup from './Components/Signup/Signup';
+import Loading from './Components/Loding/Loading';
 
 
 const App = () => {
@@ -26,6 +27,8 @@ const App = () => {
         <Route exact path="/courses/bca" element={<Bca />} />
         <Route exact path="/courses/bba" element={<Bba />} />
         <Route exact path="/courses/diploma" element={<Diploma />} />
+        <Route exact path="/signup" element={<Signup />} />
+        <Route exact path="/loading" element={<Loading />} />
       </Routes>
      
     
