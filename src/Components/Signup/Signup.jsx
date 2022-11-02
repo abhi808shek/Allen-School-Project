@@ -15,8 +15,11 @@ function Signup() {
       password,
     };
     console.log(data);
-    // const result = await axios.post("/", data);
-    // console.log(result);
+    const result = await axios.post("http://localhost:8000/signup", data);
+    console.log(result);
+    setName("");
+    setEmail("");
+    setPassword("");
   };
   return (
     <>

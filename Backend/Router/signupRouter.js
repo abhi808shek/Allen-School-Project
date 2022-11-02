@@ -1,7 +1,7 @@
-const create_signup_user = require("../controllers/Signup_Controller")
+// const create_signup_user = require("../controllers/Signup_Controller")
 const express = require("express")
 const signup_router = express.Router()
-const Signup_Model = require("../models/Signup_Model");
+const Signup_Model = require("../model/SignupModel");
 const jwt = require('jsonwebtoken');
 
 
