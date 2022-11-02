@@ -28,7 +28,7 @@ const App = () => {
         <Route exact path="/courses/bca" element={<Bca />} />
         <Route exact path="/courses/bba" element={<Bba />} />
         <Route exact path="/courses/diploma" element={<Diploma />} />
-        <Route exact path="/loading" element={<Loading />} />
+        <Route exact path="*" element={<Loading />} />
       </Routes>
      
     
