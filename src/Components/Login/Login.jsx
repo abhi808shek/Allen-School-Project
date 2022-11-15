@@ -11,8 +11,8 @@ const Login = () => {
       password,
     };
     console.log(loginData);
-    // const result = await axios.post("/", loginData);
-    // console.log(result);
+    const result = await axios.post("http://localhost:8000/login", loginData);
+    console.log(result);
   };
   return (
     <div className="login-page">

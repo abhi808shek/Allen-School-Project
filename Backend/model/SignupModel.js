@@ -21,10 +21,15 @@ const signupForm = mongoose.Schema({
         required:true,
     }})
 
-signupForm.pre("save",async function () {
+    signupForm.pre("save",async function() {
     const salt = await bcrypt.genSalt(10) 
-    const hashpass = bcrypt.hash(this.password, salt)
+    console.log(salt);
+    console.log(this.password);
+    const hashpass = await bcrypt.hash(this.password, salt)
+   console.log(hashpass);
     this.password=hashpass;
+    console.log("after Hashed");
+    console.log(this.password);
 })
 
 
